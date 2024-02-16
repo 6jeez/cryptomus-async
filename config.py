@@ -1,0 +1,2 @@
+UUID = ''
+API_KEY = ''
